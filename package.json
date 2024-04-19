@@ -1,0 +1,30 @@
+{
+  "name": "toddler-gamepad",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deemson/toddler-gamepad.git"
+  },
+  "author": "Dmytro Kurkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deemson/toddler-gamepad/issues"
+  },
+  "homepage": "https://github.com/deemson/toddler-gamepad#readme",
+  "devDependencies": {
+    "@types/howler": "^2.2.11",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.9"
+  },
+  "dependencies": {
+    "howler": "^2.2.4",
+    "pixi.js": "^8.1.0"
+  }
+}
